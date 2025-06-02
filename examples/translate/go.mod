@@ -1,7 +1,7 @@
-module github.com/lukeroth/gdal/examples/translate
+module github.com/GuruExperienceCo/go-gdal/examples/translate
 
 go 1.13
 
-replace github.com/lukeroth/gdal => ../..
+replace github.com/GuruExperienceCo/go-gdal => ../..
 
-require github.com/lukeroth/gdal v0.0.0-00010101000000-000000000000
+require github.com/GuruExperienceCo/go-gdal v0.0.0-00010101000000-000000000000
